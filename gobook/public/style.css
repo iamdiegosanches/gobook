@@ -1,0 +1,31 @@
+/* Style the table */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+  }
+  
+  /* Style the table header */
+  th {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Style the table rows */
+  td {
+    border: 1px solid #dddddd;
+    padding: 10px;
+  }
+  
+  /* Alternate row colors */
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style the page title */
+  h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+  }
