@@ -1,6 +1,6 @@
 # gobook
 
-# GoBook API - README
+# GoBook API
 
 A GoBook API é uma aplicação baseada em Go que utiliza a framework Gin que oferece funcionalidades CRUD com integração ao MongoDB.
 
